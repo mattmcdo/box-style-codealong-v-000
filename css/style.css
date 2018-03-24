@@ -147,7 +147,7 @@ margin: 0 0 30px;
 
 #navbar {
   position: fixed;
-  top: 0
+  top: 0;
   left: 0;
   width: 100%;
   z-index: 2;
@@ -187,9 +187,7 @@ font: 1em "Trebuchet MS", Arial, sans-serif;
 /*////////// LOGO //////////*/
 #logo {
   padding: 84px 0 0;
-
 }
-
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
